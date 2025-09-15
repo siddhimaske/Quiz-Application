@@ -1,0 +1,107 @@
+[
+  {
+    "id": 1,
+    "question": "What is the capital of France?",
+    "options": ["Berlin", "Madrid", "Rome", "Paris"],
+    "answer": 3
+  },
+  {
+    "id": 2,
+    "question": "Which planet is known as the Red Planet?",
+    "options": ["Earth", "Mars", "Jupiter", "Saturn"],
+    "answer": 1
+  },
+  {
+    "id": 3,
+    "question": "What is the largest ocean on Earth?",
+    "options": ["Atlantic Ocean", "Indian Ocean", "Arctic Ocean", "Pacific Ocean"],
+    "answer": 3
+  },
+  {
+    "id": 4,
+    "question": "Who wrote 'Romeo and Juliet'?",
+    "options": ["Charles Dickens", "William Shakespeare", "Mark Twain", "Leo Tolstoy"],
+    "answer": 1
+  },
+  {
+    "id": 5,
+    "question": "Which language is primarily used for web development?",
+    "options": ["Python", "JavaScript", "C++", "Java"],
+    "answer": 1
+  },
+  {
+    "id": 6,
+    "question": "What does HTML stand for?",
+    "options": [
+      "HyperText Markup Language",
+      "HyperText Markdown Language",
+      "Hyperloop Machine Language",
+      "Hyperlink and Text Markup Language"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 7,
+    "question": "Which company developed the Java programming language?",
+    "options": ["Microsoft", "Sun Microsystems", "Apple", "Google"],
+    "answer": 1
+  },
+  {
+    "id": 8,
+    "question": "What symbol is used to denote comments in JavaScript?",
+    "options": ["//", "/* */", "#", "<!-- -->"],
+    "answer": 0
+  },
+  {
+    "id": 9,
+    "question": "Which of the following is a JavaScript framework?",
+    "options": ["Django", "React", "Laravel", "Flask"],
+    "answer": 1
+  },
+  {
+    "id": 10,
+    "question": "What does CSS stand for?",
+    "options": [
+      "Cascading Style Sheets",
+      "Computer Style Sheets",
+      "Creative Style System",
+      "Colorful Style Sheets"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 11,
+    "question": "Which data structure uses FIFO (First In First Out)?",
+    "options": ["Stack", "Queue", "Tree", "Graph"],
+    "answer": 1
+  },
+  {
+    "id": 12,
+    "question": "What is the output of 2 + '2' in JavaScript?",
+    "options": ["4", "'4'", "'22'", "Error"],
+    "answer": 2
+  },
+  {
+    "id": 13,
+    "question": "Which keyword is used to declare a constant in JavaScript?",
+    "options": ["var", "let", "const", "constant"],
+    "answer": 2
+  },
+  {
+    "id": 14,
+    "question": "Which of these is NOT a programming paradigm?",
+    "options": ["Object-Oriented", "Functional", "Procedural", "Relational"],
+    "answer": 3
+  },
+  {
+    "id": 15,
+    "question": "What does SQL stand for?",
+    "options": [
+      "Structured Query Language",
+      "Strong Question Language",
+      "Structured Question Language",
+      "Simple Query Language"
+    ],
+    "answer": 0
+  }
+]
