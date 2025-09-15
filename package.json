@@ -1,0 +1,14 @@
+{
+  "name": "quiz-app-node",
+  "version": "1.0.0",
+  "description": "Dynamic quiz application with Node.js backend and user-friendly frontend",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "author": "",
+  "license": "ISC"
+}
